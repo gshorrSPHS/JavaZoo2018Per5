@@ -67,6 +67,6 @@ public class HoneyBadger extends Animal implements Swimming,Running,Flying
     {
         chuckNorrisFactor=(1+chuckNorrisFactor)*100;
         return "It rapidly chrips and growls at the same time "+
-        "generating "+chuckNorrisFactor+"decibels";
+        "generating "+chuckNorrisFactor+" decibels";
     }
 }
