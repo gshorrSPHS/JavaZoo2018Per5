@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PetRock
+comment1.params=weight
+comment1.target=PetRock(int)
+comment2.params=name\ des\ weight
+comment2.target=PetRock(java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ play()
+comment4.params=
+comment4.target=java.lang.String\ makeNoise()
+comment5.params=
+comment5.target=java.lang.String\ eat()
+comment6.params=
+comment6.target=java.lang.String\ fly()
+comment7.params=
+comment7.target=java.lang.String\ swim()
+numComments=8
