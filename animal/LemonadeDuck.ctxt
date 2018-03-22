@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=LemonadeDuck
+comment0.text=\n\ Write\ a\ description\ of\ class\ MagicPinkFairyArmadillo\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=LemonadeDuck()
+comment2.params=
+comment2.target=java.lang.String\ makeNoise()
+numComments=3
