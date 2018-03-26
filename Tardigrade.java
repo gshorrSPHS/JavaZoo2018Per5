@@ -33,5 +33,6 @@ public class Tardigrade extends Animal implements Running, Swimming {
     public String swim() {
         return getName() + " uses its eight legs to wade through the water quickly.";
     }
+    //gucci gang
 }
 
