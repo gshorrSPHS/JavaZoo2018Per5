@@ -10,5 +10,5 @@ public final class TheAlmightyTardigrade extends Tardigrade {
     public String makeNoise() {
         return super.getName() + " laughs menacingly as he smites a human. Then an angel's wings flaps.";
     }
-
+    //we good
 }
