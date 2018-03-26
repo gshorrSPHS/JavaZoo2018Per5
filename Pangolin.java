@@ -1,5 +1,11 @@
 public class Pangolin extends Animal implements Running
 {
+    private int elasticity;
+    public Pangolin(int elasticity)
+    {
+        super("Pangolin", "A living pine cone");
+        this.elasticity = elasticity;
+    }
     public Pangolin(String name, String description)
     {
         super("Pangolin", "A living pine cone");
