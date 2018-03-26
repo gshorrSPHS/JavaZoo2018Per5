@@ -16,21 +16,21 @@ public Goat(int greatness, String name, String desc)
 }
 
 @Override
-public String BallUp()
+public String play()
 {
     return "The goat breaks everyone's ankles.";
 }
 
 @Override
-public String Yell()
+public String makeNoise()
 {
     return "YOU CAN'T GUARD ME!";
 }
 
 @Override
-public String Rings()
+public String eat()
 {
-    return "The goat has " + greatness + " championship rings";
+    return "The goat devours his steak";
 }
 
 @Override
